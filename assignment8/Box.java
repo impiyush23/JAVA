@@ -16,7 +16,7 @@ public class Box {
     }
 
     public static void  showBoxCount(){
-        System.out.println("Box Count="+boxCount); 
+        System.out.println("Box Count="+boxCount);
     }  // *** static method to display box count.***
 
 
