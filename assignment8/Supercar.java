@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 
-public class SuperCar {
+class SuperCar {
     private String ownerName;
     private double price;
     private String color;

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9da40a7-de70-4631-b72b-3ddda8de0901" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Supercar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment8/A8Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment8/A8Q1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
   "keyToString": {
     "Application.A8Q1.executor": "Run",
     "Application.Supercar.executor": "Run",
+    "Application.Video.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
