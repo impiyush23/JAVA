@@ -16,7 +16,7 @@ public class SuperCar {
         }
         return null;         // otherwise return null
     }
-
+  //  ** rest we would do in constructor part **
      public void setBrand(String brand){
         this.brand = brand;
     }
