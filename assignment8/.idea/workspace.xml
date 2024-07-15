@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9da40a7-de70-4631-b72b-3ddda8de0901" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Batch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2j9dKunaaMWVGVHWtYGGU1WjxOH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A8Q1.executor": "Run",
+    "Application.SuperCar.executor": "Run",
     "Application.Supercar.executor": "Run",
     "Application.Video.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
