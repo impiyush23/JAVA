@@ -29,9 +29,9 @@ class ThickCircle extends Circle {
 
     public static void main(String[] args) {
         ThickCircle t = new ThickCircle();
-        t.setRadius(5);
+        t.setRadius(5.0);
         System.out.println("Area is:"+t.calculateArea());
-        t.setThickness(2);
+        t.setThickness(2.0);
         System.out.println("THICKNESS AREA:"+t.getThicknessArea());
         System.out.println("hollow area:"+t.getHollowArea());
     }
